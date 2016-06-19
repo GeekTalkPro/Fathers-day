@@ -1,0 +1,29 @@
+
+  <head>
+    <center>
+  <h1> Hey dad! <h1>
+    <p> Thanks for being my father and being a all rounded well caring person </p>
+
+  <style>
+    h1 {
+      color: blue;
+      font-size: 50px;
+      font-family: monospace;
+    }
+    p {
+      color: orange;
+      font-size: 20px;
+      font-family: sans-serif;
+    }
+    h3 {
+      color: cyan;
+      font-size: 30px;
+      font-family: serif;
+    }
+
+  </style>
+
+    <h3> THANKS FOR LOVING ALL OF US, I LOVE YOU TOO <h3>
+        <img src="http://plusquotes.com/images/quotes-img/512219.jpg" alt="" style="width:1500px;height:844px;">
+      </center>
+  </head>
